@@ -19,9 +19,9 @@ This project analyzes monthly performance of major technology stocks using Pytho
 
 ## Tools & Libraries
 Python
-pandas
-matplotlib
-seaborn
+- pandas
+- matplotlib
+- seaborn
 
 ## Purpose
 This project demonstrates Python techniques for financial time-series analysis, grouping operations, and visualization commonly used in financial analytics and quantitative research.
